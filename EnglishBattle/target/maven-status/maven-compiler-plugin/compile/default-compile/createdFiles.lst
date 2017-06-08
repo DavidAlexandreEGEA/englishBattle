@@ -1,0 +1,14 @@
+com\mycompany\englishbattle\ServiceImpl\JoueurServiceImpl.class
+com\mycompany\englishbattle\business\Question.class
+com\mycompany\englishbattle\Service\QuestionService.class
+com\mycompany\englishbattle\Service\VerbeService.class
+com\mycompany\englishbattle\ServiceImpl\QuestionServiceImpl.class
+com\mycompany\englishbattle\ServiceImpl\VerbeServiceImpl.class
+com\mycompany\englishbattle\business\Joueur.class
+com\mycompany\englishbattle\Servlet\inscriptionServlet.class
+com\mycompany\englishbattle\Service\PartieService.class
+com\mycompany\englishbattle\Service\JoueurService.class
+com\mycompany\englishbattle\Servlet\connexionServlet.class
+com\mycompany\englishbattle\business\Partie.class
+com\mycompany\englishbattle\business\Verbe.class
+com\mycompany\englishbattle\ServiceImpl\PartieServiceImpl.class

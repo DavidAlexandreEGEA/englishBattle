@@ -1,0 +1,7 @@
+https://github.com/DavidAlexandreEGEA/englishBattle.git
+
+git init
+git add . //ajoute tous les fichiers
+git commit -m "first commit" // mettre le message que vous souhaitez
+git remote add origin https://github.com/DavidAlexandreEGEA/englishBattle.git
+git push -u origin master
